@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **ASP.NET API use**
 
-- 👨‍💻 All of my projects are available at [kittyfarren.dev](kittyfarren.dev)
+- 👨‍💻 All of my projects are available at [kittyfarren.dev](https://kittyfarren.dev)
 
 - 💬 Ask me about **.NET, Vue and Python**
 
 - 📫 How to reach me **farren.kitty@gmail.com**
 
-- 📄 Know about my experiences [kittyfarren.dev/assets/resume/resume](kittyfarren.dev/assets/resume/resume)
+- 📄 Know about my experiences [kittyfarren.dev/assets/resume/resume](https://kittyfarren.dev/assets/resume/resume)
 
 - ⚡ Fun fact **I love to crochet!**
 
