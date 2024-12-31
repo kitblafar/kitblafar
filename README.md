@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Kitty Farren</h1>
-<h3 align="center">A passionate electronics engineer and software developer from York, England currently base in Mid-Wales. I enjoy writing Python, C#, the odd bit of embedded development and WebDevelopment.</h3>
+<h3 align="center">A passionate electronics engineer and software developer from York, England currently base in Mid-Wales. I enjoy writing Python, C#, C++ embedded development and WebDevelopment.</h3>
 
 My [Bluetooth Bladerunner Earrings](https://github.com/BLEEarrings) organisation is looking for contributors (despite its organisational disarray).
 
-- 🔭 I’m currently working on [Bluetooth Bladerunner Earrings](https://github.com/BLEEarrings)
+- 🔭 I’m currently working on [Bluetooth Bladerunner Earrings](https://github.com/BLEEarrings) 
 
 - 🌱 I’m currently learning **ASP.NET APIs** with my [Photo Challenge Game](https://github.com/kitblafar/Xmas-Photo-Challenge)
 
 - 👨‍💻 My person website (mainly about crochet) is available on [kittyfarren.dev](https://kittyfarren.dev)
 
-- 💬 Ask me about **.NET, Vue and Python**
+- 💬 Ask me about **.NET, C++, Vue and Python**
 
 - 📫 How to reach me **farren.kitty@gmail.com**
 
