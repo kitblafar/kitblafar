@@ -15,7 +15,7 @@ My [Bluetooth Bladerunner Earrings](https://github.com/BLEarrings) organisation 
 
 - 📄 Know about my experiences [kittyfarren.dev/assets/resume/resume](https://kittyfarren.dev/assets/resume/resume)
 
-- ⚡ Fun fact **I love to crochet!**
+- ⚡ Fun fact **I love crochet** and **[Blender modelling](https://github.com/kitblafar/Blender-Projects)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
