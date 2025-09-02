@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kitty Farren</h1>
-<h3 align="center">A passionate electronics engineer and software developer from York, England currently base in Mid-Wales. I enjoy writing Python, C#, embedded C++ and WebDevelopment.</h3>
+<h3 align="center">A passionate electronics engineer and software developer from York, England currently base in Manchester. I enjoy writing Python, C++ (both embedded and high level), C# and WebDevelopment.</h3>
 
 My [Bluetooth Bladerunner Earrings](https://github.com/BLEarrings) organisation is looking for contributors (despite its organisational disarray).
 
